@@ -63,7 +63,7 @@ export default function LandingPage() {
           href: "tel:9865222830",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/fashionable-eyewear-model-close-up-portrait_158595-4330.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/fashionable-eyewear-model-close-up-portrait_158595-4330.jpg?_wi=1"
       mediaAnimation="slide-up"
     />
   </div>
@@ -108,7 +108,7 @@ export default function LandingPage() {
           quote: "Welcoming staff, wide variety, expert advice, and a seamless experience. Highly recommended!",
           tag: "5 stars",
           avatarSrc: "http://img.b2bpic.net/free-photo/business-woman-with-glasses-her-desk_23-2148218573.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/fashionable-eyewear-model-close-up-portrait_158595-4330.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fashionable-eyewear-model-close-up-portrait_158595-4330.jpg?_wi=2",
           imageAlt: "luxury eyewear store interior warm lighting",
         },
         {
@@ -166,7 +166,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       title="About Us"
       description="Founded over 50 years ago, Thahira Opticals has been a trusted name in eyewear. Under the leadership of HAJA SHARIF, we continue to deliver excellence in vision care and style."
-      imageSrc="http://img.b2bpic.net/free-photo/fashionable-eyewear-model-close-up-portrait_158595-4330.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/fashionable-eyewear-model-close-up-portrait_158595-4330.jpg?_wi=3"
     />
   </div>
 
@@ -202,7 +202,7 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterMedia
-      imageSrc="http://img.b2bpic.net/free-photo/fashionable-eyewear-model-close-up-portrait_158595-4330.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/fashionable-eyewear-model-close-up-portrait_158595-4330.jpg?_wi=4"
       columns={[
         {
           title: "Navigation",
